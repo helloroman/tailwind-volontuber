@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-recommended",
+  ],
+  "rules": {
+    "block-no-empty": null,
+    "no-descending-specificity": null
+  }
+}

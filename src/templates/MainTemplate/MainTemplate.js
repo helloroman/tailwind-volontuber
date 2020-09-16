@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 const MainTemplate = ({ children }) => {
   return (
     <div>
-      <Helmet lang="pl" title="Hello Roman" />
+      <Helmet lang="en" title="Hello Roman" />
       {children}
     </div>
   );
